@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkenterprise_docs=self.webpackChunkenterprise_docs||[]).push([[145],{4146:e=>{e.exports=JSON.parse('{"permalink":"/fydetab-wiki-dev/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

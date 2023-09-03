@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkenterprise_docs=self.webpackChunkenterprise_docs||[]).push([[78],{5984:e=>{e.exports=JSON.parse('{"permalink":"/fydetab-wiki-dev/zh-Hans/blog/tags/fyde-os","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
